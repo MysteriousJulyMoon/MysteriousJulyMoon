@@ -5,7 +5,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-FF9999?style=for-the-badge&logo=Sql&logocolor=660000)
 
 ### Follow me
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-FF9999?style=for-the-badge&logo=Vk&logocolor=660000)(https://vk.com/julydruj)]
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-FF9999?style=for-the-badge&logo=Vk&logocolor=660000)](https://vk.com/julydruj)
 <!--
 **MysteriousJulyMoon/MysteriousJulyMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
