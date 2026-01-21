@@ -41,7 +41,9 @@
 
 ### 📈 **Business Analysis Skills:**
 -**Collecting requirements and documentation**
+
 -**Process analysis and optimization**
+
 -**Communication with stakeholders and project coordination**
 
 ### 💪 **Key Strengths:**
