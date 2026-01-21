@@ -40,14 +40,14 @@ Database Design: Structuring efficient data models and queries
 
 ### 📈 **Business Analysis Skills:**
 -**Collecting requirements and documentation**
--Process analysis and optimization
--Communication with stakeholders and project coordination
+-**Process analysis and optimization**
+-**Communication with stakeholders and project coordination**
 
 ### 💪 **Key Strengths:**
--Fast learner and able to solve problems
--Ability to understand both technical and business aspects
--He is detail-oriented and has excellent analytical skills
--An effective communicator in cross-functional teams
+-**Fast learner and able to solve problems**
+-**Ability to understand both technical and business aspects**
+-**He is detail-oriented and has excellent analytical skills**
+-**An effective communicator in cross-functional teams**
 
 ## 📫 Connect With Me
 
