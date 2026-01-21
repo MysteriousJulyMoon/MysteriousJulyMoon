@@ -1,6 +1,6 @@
 ## Hi! My name is Julia and I am a novice developer. 👋
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-FF9999?style=for-the-badge&logo=flutter&logocolor=660000)
+![Python](https://img.shields.io/badge/-Python-FF9999?style=for-the-badge&logo=Python&logocolor=660000)
 <!--
 **MysteriousJulyMoon/MysteriousJulyMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
