@@ -1,11 +1,12 @@
 # Hi! My name is Julia and I am a Junior Developer. 👋
 ## I'm a 20-year-old and a passion for creating efficient, scalable solutions and bridging the gap between technology and business needs. Currently expanding my expertise in both development and business analysis to build comprehensive digital solutions.
-### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-FF9999?style=for-the-badge&logo=Python&logocolor=660000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF9999?style=for-the-badge&logo=JavaScript&logocolor=660000)
+### Tech Stack
+### Programming Languages:
+![Python](https://img.shields.io/badge/-Python-FF9999?style=for-the-badge&logo=Python&logocolor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF9999?style=for-the-badge&logo=JavaScript&logocolor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sql](https://img.shields.io/badge/-Sql-FF9999?style=for-the-badge&logo=Sql&logocolor=660000)
+![Sql](https://img.shields.io/badge/-Sql-FF9999?style=for-the-badge&logo=Sql&logocolor=white)
 
 ### Follow me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-FF9999?style=for-the-badge&logo=Vk&logocolor=660000)](https://vk.com/julydruj)
