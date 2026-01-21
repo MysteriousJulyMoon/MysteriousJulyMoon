@@ -1,4 +1,5 @@
-## Hi! My name is Julia and I am a novice developer. 👋
+# Hi! My name is Julia and I am a Junior Developer. 👋
+## I'm a 20-year-old and a passion for creating efficient, scalable solutions and bridging the gap between technology and business needs. Currently expanding my expertise in both development and business analysis to build comprehensive digital solutions.
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-FF9999?style=for-the-badge&logo=Python&logocolor=660000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF9999?style=for-the-badge&logo=JavaScript&logocolor=660000)
