@@ -18,6 +18,16 @@
 ### Business Analysis:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 📊 **Most Used Languages**
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MysteriousJulyMoon&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+**Based on your public repositories:**
+- **Python** - 52.58%
+- **JavaScript** - 30.48%
+- **Html** - 16.62%
+- **SQL** - Active development
+- **C++** - 4.95%
 ### Follow me 📫
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-FF9999?style=for-the-badge&logo=Vk&logocolor=660000)](https://vk.com/julydruj)
 <!--
