@@ -39,14 +39,14 @@ Development experience: website layout, creation of single-page websites, busine
 Database Design: Structuring efficient data models and queries
 
 ### 📈 **Business Analysis Skills:**
--Collecting requirements and documentation
+-**Collecting requirements and documentation**
 -Process analysis and optimization
 -Communication with stakeholders and project coordination
 
 ### 💪 **Key Strengths:**
 -Fast learner and able to solve problems
 -Ability to understand both technical and business aspects
--He is detail-oriented and has excellent analytical skills.
+-He is detail-oriented and has excellent analytical skills
 -An effective communicator in cross-functional teams
 
 ## 📫 Connect With Me
