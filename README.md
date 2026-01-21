@@ -40,7 +40,7 @@
 **Database Design:** Structuring efficient data models and queries
 
 ### 📈 **Business Analysis Skills:**
--**Collecting requirements and documentation**
+-**Collecting and forming requirements**
 
 -**Process analysis and optimization**
 
