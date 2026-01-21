@@ -49,12 +49,6 @@ Database Design: Structuring efficient data models and queries
 -He is detail-oriented and has excellent analytical skills.
 -An effective communicator in cross-functional teams
 
-## 📈 GitHub Stats
-
-![MysteriousJulyMoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MysteriousJulyMoon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MysteriousJulyMoon&theme=radical&hide_border=true)
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monikabiluci825@gmail.com)
