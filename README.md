@@ -48,12 +48,19 @@
 
 ### 💪 **Key Strengths:**
 -**Fast learner and able to solve problems**
+
 -**Ability to understand both technical and business aspects**
+
 -**He is detail-oriented and has excellent analytical skills**
+
 -**An effective communicator in cross-functional teams**
+
 **Business Acumen:**
+
 - Understanding of business operations and strategy
+  
 - Ability to align technical solutions with business goals
+  
 - Market awareness and trend analysis
 
 ## 📫 Connect With Me
