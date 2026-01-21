@@ -34,9 +34,10 @@
 - **C++** - 4.95%
 
 ## 🎯 Professional orientation
-Development experience: website layout, creation of single-page websites, business card websites
-
-Database Design: Structuring efficient data models and queries
+**Development experience:** Website layout and responsive design implementation, creation of single-page websites, Business card websites.
+**Client & Business-Focused Experience:**  Direct client communication and requirements gathering; Translating business needs into technical specifications; Developing solutions aligned with business objectives; Communication with stakeholders at all levels.
+**Client Relationship Management:** Building and maintaining strong client relationships; Understanding client business models and objectives; Providing technical consultation and recommendations.
+**Database Design:** Structuring efficient data models and queries
 
 ### 📈 **Business Analysis Skills:**
 -**Collecting requirements and documentation**
@@ -48,6 +49,10 @@ Database Design: Structuring efficient data models and queries
 -**Ability to understand both technical and business aspects**
 -**He is detail-oriented and has excellent analytical skills**
 -**An effective communicator in cross-functional teams**
+**Business Acumen:**
+- Understanding of business operations and strategy
+- Ability to align technical solutions with business goals
+- Market awareness and trend analysis
 
 ## 📫 Connect With Me
 
