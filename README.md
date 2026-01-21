@@ -1,7 +1,7 @@
 # Hi! My name is Julia and I am a Junior Developer. 👋
 ## I'm a 20-year-old and a passion for creating efficient, scalable solutions and bridging the gap between technology and business needs. Currently expanding my expertise in both development and business analysis to build comprehensive digital solutions.
 ### Tech Stack 🛠️
-### Programming Languages 👩‍💻:
+### Programming Languages👩‍💻:
 ![Python](https://img.shields.io/badge/-Python-FF9999?style=for-the-badge&logo=Python&logocolor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF9999?style=for-the-badge&logo=JavaScript&logocolor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
